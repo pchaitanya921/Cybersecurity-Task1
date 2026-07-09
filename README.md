@@ -95,6 +95,6 @@ Cybersecurity-Task1/
 ## Author
 
 **Pallapati Lakshmi Chaitanya Sai**
-B.Tech CSE (Cyber Security), Vel Tech University
+B.Tech CSE (Cyber Security), 
 CEH v13 Certified
 GitHub: [github.com/pchaitanya921](https://github.com/pchaitanya921)

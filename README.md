@@ -1,15 +1,20 @@
 # ApexPlanet Cybersecurity & Ethical Hacking Internship
 
 ## Task 1 - Foundations of Cybersecurity
+> Building a professional cybersecurity lab using Kali Linux, Metasploitable2, VirtualBox, and industry-standard security tools.
 
-### Name
-Pallapati Lakshmi Chaitanya Sai
+---
 
-### Internship
-Cybersecurity & Ethical Hacking Internship
+## 👨‍💻 Author
 
-### Company
-ApexPlanet Software Pvt. Ltd.
+**Pallapati Lakshmi Chaitanya Sai**
+
+- 🎓 B.Tech CSE (Cyber Security)
+- 🔐 CEH v13 Certified
+- 🏢 Internship: ApexPlanet Software Pvt. Ltd.
+- 🆔 Offer Letter ID: **APSPL2641722**
+- 📅 Duration: **11 July 2026 – 08 September 2026 (60 Days)**
+- 🌐 GitHub: https://github.com/pchaitanya921
 
 ### Offer Letter ID
 APSPL2641722

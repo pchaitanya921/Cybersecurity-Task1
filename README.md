@@ -16,11 +16,7 @@
 - 📅 Duration: **11 July 2026 – 08 September 2026 (60 Days)**
 - 🌐 GitHub: https://github.com/pchaitanya921
 
-### Offer Letter ID
-APSPL2641722
 
-### Duration
-11 July 2026 – 08 September 2026 (60 Days)
 
 ---
 

@@ -41,10 +41,16 @@ The objective of Task 1 is to build a functioning cybersecurity lab environment 
 ---
 ## 🖥️ Lab Topology
 
-The cybersecurity lab consists of a Windows host running Oracle VirtualBox with two virtual machines: Kali Linux (attacker) and Metasploitable2 (target). Both virtual machines communicate through a Host-Only Adapter, creating an isolated environment for ethical hacking, vulnerability assessment, and packet analysis.
+The cybersecurity lab consists of a Windows host running Oracle VirtualBox with two virtual machines:
 
-![Lab Topology] ![Uploading image.png…]()
+- **Kali Linux** – Attacker Machine (`192.168.56.102`)
+- **Metasploitable2** – Target Machine (`192.168.56.101`)
 
+Both virtual machines communicate through a **Host-Only Adapter**, creating an isolated environment for ethical hacking, vulnerability assessment, and packet analysis.
+
+<p align="center">
+  <img src="Screenshots/lab-topology.png" alt="Lab Topology" width="900">
+</p>
 
 
 ## Tools Used
